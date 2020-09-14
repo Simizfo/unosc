@@ -1,0 +1,77 @@
+{
+  "format": 1,
+  "restore": {
+    "X:\\source\\unosc-github\\UnoSC\\UnoSC.macOS\\UnoSC.macOS.csproj": {}
+  },
+  "projects": {
+    "X:\\source\\unosc-github\\UnoSC\\UnoSC.macOS\\UnoSC.macOS.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "X:\\source\\unosc-github\\UnoSC\\UnoSC.macOS\\UnoSC.macOS.csproj",
+        "projectName": "UnoSC.macOS",
+        "projectPath": "X:\\source\\unosc-github\\UnoSC\\UnoSC.macOS\\UnoSC.macOS.csproj",
+        "packagesPath": "C:\\Users\\ratch\\.nuget\\packages\\",
+        "outputPath": "X:\\source\\unosc-github\\UnoSC\\UnoSC.macOS\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ratch\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "xamarinmac20"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "xamarinmac20": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "xamarinmac20": {
+          "dependencies": {
+            "Microsoft.Extensions.Logging.Console": {
+              "target": "Package",
+              "version": "[1.1.1, )"
+            },
+            "Microsoft.Extensions.Logging.Filter": {
+              "target": "Package",
+              "version": "[1.1.1, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            },
+            "Uno.UI": {
+              "target": "Package",
+              "version": "[3.1.0-dev.319, )"
+            },
+            "Uno.UI.RemoteControl": {
+              "target": "Package",
+              "version": "[3.1.0-dev.319, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

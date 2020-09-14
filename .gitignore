@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/UnoSC/UnoSC.Droid/bin/Debug
+/UnoSC/UnoSC.Droid/obj
+/UnoSC/UnoSC.iOS/obj
+/UnoSC/UnoSC.UWP/bin
+/UnoSC/UnoSC.UWP/obj
+/UnoSC/UnoSC.Wasm/bin/Debug/netstandard2.0
+/UnoSC/UnoSC.Wasm/obj
